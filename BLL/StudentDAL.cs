@@ -1,17 +1,19 @@
 ﻿using BLL.DTOModels;
 using DAL;
-using Microsoft.Data.SqlClient;
-using Microsoft.EntityFrameworkCore;
-using Model;
+using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace BLL_EF
+namespace BLL
 {
-    public class StudentServiceEF
+    public class StudentDAL
     {
         private readonly SchoolContext _context;
 
-        public StudentServiceEF(SchoolContext context)
+        public StudentDAL(SchoolContext context)
         {
             _context = context;
         }
@@ -45,10 +47,14 @@ namespace BLL_EF
 
         public void AddStudent(StudentDTO student)
         {
-            _context.Database.ExecuteSqlRaw("EXEC DodajStudenta @Imie, @Nazwisko, @GroupID",
-                 new SqlParameter("@Imie", student.Imie),
-                     new SqlParameter("@Nazwisko", student.Nazwisko),
-                         new SqlParameter("@GroupID", student.GroupID ?? (object)DBNull.Value)); //Konwersja na DBNull, jeśli GroupID jest null
+            var newStudent = new Model.Student
+            {
+                Imie = student.Imie,
+                Nazwisko = student.Nazwisko,
+                GroupaID = student.GroupID
+            };
+            _context.Studenci.Add(newStudent);
+            _context.SaveChanges();
         }
 
         public void UpdateStudent(StudentDTO student)

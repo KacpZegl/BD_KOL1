@@ -1,0 +1,9 @@
+CREATE PROCEDURE DodajStudenta
+    @Imie NVARCHAR(100),
+    @Nazwisko NVARCHAR(100),
+    @GroupaID INT -- zmieni³em nazwê parametru na GroupaID zgodnie z twoj¹ konwencj¹ w klasie Student
+AS
+BEGIN
+    INSERT INTO Studenci (Imie, Nazwisko, GroupaID)
+    VALUES (@Imie, @Nazwisko, @GroupaID)
+END

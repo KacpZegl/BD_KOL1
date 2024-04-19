@@ -30,13 +30,13 @@ namespace DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"), 1L, 1);
 
-                    b.Property<string>("Nazwa")
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ID");
 
-                    b.ToTable("Grupy");
+                    b.ToTable("Groupy");
                 });
 
             modelBuilder.Entity("Model.Historia", b =>
@@ -50,7 +50,7 @@ namespace DAL.Migrations
                     b.Property<DateTime>("Data")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("IdGrupy")
+                    b.Property<int?>("GroupID")
                         .HasColumnType("int");
 
                     b.Property<string>("Imie")
@@ -67,7 +67,9 @@ namespace DAL.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Historia");
+                    b.HasIndex("GroupID");
+
+                    b.ToTable("Historie");
                 });
 
             modelBuilder.Entity("Model.Student", b =>
@@ -78,8 +80,7 @@ namespace DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"), 1L, 1);
 
-                    b.Property<int?>("IDGrupy")
-                        .IsRequired()
+                    b.Property<int?>("GroupaID")
                         .HasColumnType("int");
 
                     b.Property<string>("Imie")
@@ -92,25 +93,27 @@ namespace DAL.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("IDGrupy");
+                    b.HasIndex("GroupaID");
 
-                    b.ToTable("Students");
+                    b.ToTable("Studenci");
+                });
+
+            modelBuilder.Entity("Model.Historia", b =>
+                {
+                    b.HasOne("Model.Grupa", "Grupa")
+                        .WithMany()
+                        .HasForeignKey("GroupID");
+
+                    b.Navigation("Grupa");
                 });
 
             modelBuilder.Entity("Model.Student", b =>
                 {
                     b.HasOne("Model.Grupa", "Grupa")
-                        .WithMany("Studenci")
-                        .HasForeignKey("IDGrupy")
-                        .OnDelete(DeleteBehavior.SetNull)
-                        .IsRequired();
+                        .WithMany()
+                        .HasForeignKey("GroupaID");
 
                     b.Navigation("Grupa");
-                });
-
-            modelBuilder.Entity("Model.Grupa", b =>
-                {
-                    b.Navigation("Studenci");
                 });
 #pragma warning restore 612, 618
         }

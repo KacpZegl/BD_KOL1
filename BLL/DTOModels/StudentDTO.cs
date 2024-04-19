@@ -7,6 +7,6 @@ namespace BLL.DTOModels
         public int ID { get; set; }
         public string Imie { get; set; }
         public string Nazwisko { get; set; }
-        public int? IDGrupy { get; set; }
+        public int? GroupID { get; set; }
     }
 }

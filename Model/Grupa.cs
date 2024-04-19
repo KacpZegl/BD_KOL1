@@ -13,8 +13,6 @@ namespace Model
     {
         [Key]
         public int ID { get; set; }
-        public string Nazwa { get; set; }
-
-        public virtual ICollection<Student> Studenci { get; set; } = new HashSet<Student>(); // Kolekcja studentów
+        public string Name { get; set; }
     }
 }

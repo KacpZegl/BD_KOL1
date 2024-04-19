@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Student RM4-3073 11\\Desktop\\Kolos_Bazy\\BazyDanych-main\\BazyDanych-main\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Student RM4-3073 11\\Desktop\\Kolos_Bazy\\BazyDanych-main\\BazyDanych-main\\DAL\\DAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

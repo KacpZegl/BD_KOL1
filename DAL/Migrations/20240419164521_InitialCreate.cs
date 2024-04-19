@@ -5,77 +5,86 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace DAL.Migrations
 {
-    public partial class init : Migration
+    public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Grupy",
+                name: "Groupy",
                 columns: table => new
                 {
                     ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Nazwa = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Grupy", x => x.ID);
+                    table.PrimaryKey("PK_Groupy", x => x.ID);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Historia",
+                name: "Historie",
                 columns: table => new
                 {
                     ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Imie = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Nazwisko = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    IdGrupy = table.Column<int>(type: "int", nullable: false),
+                    GroupID = table.Column<int>(type: "int", nullable: true),
                     TypAkcji = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Data = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Historia", x => x.ID);
+                    table.PrimaryKey("PK_Historie", x => x.ID);
+                    table.ForeignKey(
+                        name: "FK_Historie_Groupy_GroupID",
+                        column: x => x.GroupID,
+                        principalTable: "Groupy",
+                        principalColumn: "ID");
                 });
 
             migrationBuilder.CreateTable(
-                name: "Students",
+                name: "Studenci",
                 columns: table => new
                 {
                     ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Imie = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Nazwisko = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    IDGrupy = table.Column<int>(type: "int", nullable: false)
+                    GroupaID = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Students", x => x.ID);
+                    table.PrimaryKey("PK_Studenci", x => x.ID);
                     table.ForeignKey(
-                        name: "FK_Students_Grupy_IDGrupy",
-                        column: x => x.IDGrupy,
-                        principalTable: "Grupy",
-                        principalColumn: "ID",
-                        onDelete: ReferentialAction.SetNull);
+                        name: "FK_Studenci_Groupy_GroupaID",
+                        column: x => x.GroupaID,
+                        principalTable: "Groupy",
+                        principalColumn: "ID");
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Students_IDGrupy",
-                table: "Students",
-                column: "IDGrupy");
+                name: "IX_Historie_GroupID",
+                table: "Historie",
+                column: "GroupID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Studenci_GroupaID",
+                table: "Studenci",
+                column: "GroupaID");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Historia");
+                name: "Historie");
 
             migrationBuilder.DropTable(
-                name: "Students");
+                name: "Studenci");
 
             migrationBuilder.DropTable(
-                name: "Grupy");
+                name: "Groupy");
         }
     }
 }

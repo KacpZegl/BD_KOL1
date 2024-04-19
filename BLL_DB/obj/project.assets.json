@@ -901,6 +901,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "DAL": "1.0.0",
           "Microsoft.Data.SqlClient": "5.2.0"
         },
         "compile": {
@@ -908,6 +909,22 @@
         },
         "runtime": {
           "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.2.0",
+          "Microsoft.EntityFrameworkCore": "6.0.28",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.28",
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
         }
       },
       "Model/1.0.0": {
@@ -2490,6 +2507,11 @@
       "type": "project",
       "path": "../BLL/BLL.csproj",
       "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
     },
     "Model/1.0.0": {
       "type": "project",

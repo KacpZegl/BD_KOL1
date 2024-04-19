@@ -594,6 +594,7 @@
       },
       "BLL/1.0.0": {
         "dependencies": {
+          "DAL": "1.0.0",
           "Microsoft.Data.SqlClient": "5.2.0"
         },
         "runtime": {

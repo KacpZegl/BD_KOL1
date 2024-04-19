@@ -67,3 +67,5 @@ C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\
 C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.pdb
 C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.Up2Date
 C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\DAL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\DAL.pdb
