@@ -1,9 +1,0 @@
-CREATE PROCEDURE RemoveProductFromBasket
-    @UserId INT,
-    @ProductId INT
-AS
-BEGIN
-    DELETE FROM BasketPositions
-    WHERE ProductId = @ProductId and UserId = @UserId;
-
-END
