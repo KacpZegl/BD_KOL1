@@ -1,0 +1,34 @@
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.sourcelink.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\SQL\obj\Debug\net8.0\ref\SQL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.cs
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.csproj.CoreCompileInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\ref\SQL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\SQL\obj\Debug\net8.0\ref\SQL.dll

@@ -1,0 +1,69 @@
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.sourcelink.json
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\BLL_DB.deps.json
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\BLL_DB.dll
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\BLL_DB.pdb
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\BLL.dll
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\Model.dll
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\BLL.pdb
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\bin\Debug\net8.0\Model.pdb
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.Up2Date
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.dll
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\refint\BLL_DB.dll
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\BLL_DB.pdb
+C:\Users\Student RM4-3073 11\source\repos\BazyDanych\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.deps.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.AssemblyReference.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfoInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfo.cs
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CoreCompileInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CopyComplete
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\refint\BLL_DB.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.deps.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.AssemblyReference.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfoInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfo.cs
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CoreCompileInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.Up2Date
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\refint\BLL_DB.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\refint\BLL_DB.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.deps.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL_DB.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\bin\Debug\net8.0\Model.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\BLL_DB.csproj.Up2Date
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_DB\obj\Debug\net8.0\ref\BLL_DB.dll

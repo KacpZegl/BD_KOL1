@@ -1,0 +1,77 @@
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\BLL_EF.deps.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\BLL_EF.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.sourcelink.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.Up2Date
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\refint\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\BLL_EF.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL_EF\obj\Debug\net6.0\ref\BLL_EF.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.deps.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\DAL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\DAL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\Model.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.AssemblyReference.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfoInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfo.cs
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.CoreCompileInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.CopyComplete
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\refint\BLL_EF.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\ref\BLL_EF.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.deps.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\DAL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\DAL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\Model.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.AssemblyReference.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfoInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfo.cs
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.CoreCompileInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.Up2Date
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\refint\BLL_EF.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\ref\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\refint\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.deps.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL_EF.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\BLL_EF.csproj.Up2Date
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL_EF\obj\Debug\net6.0\ref\BLL_EF.dll

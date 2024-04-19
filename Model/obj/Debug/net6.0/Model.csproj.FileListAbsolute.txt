@@ -1,0 +1,86 @@
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\bin\Debug\net6.0\Model.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.sourcelink.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.sourcelink.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\ref\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.deps.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\refint\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\Model\obj\Debug\net6.0\ref\Model.dll

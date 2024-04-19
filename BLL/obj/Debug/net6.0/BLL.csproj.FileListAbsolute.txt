@@ -1,0 +1,73 @@
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\ref\BLL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.deps.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\refint\BLL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\BLL\obj\Debug\net6.0\ref\BLL.dll

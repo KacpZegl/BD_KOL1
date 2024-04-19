@@ -1,0 +1,104 @@
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\student\Desktop\JC_BAZY\BazyDanych\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Student RM4-3073 04\Desktop\JC\BazyDanych\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Student RM4-3073 11\Source\Repos\BazyDanych\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\NZXT-Kacper\Downloads\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\Model.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\Model.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.pdb
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Student RM4-3073 11\Desktop\Kolos_Bazy\BazyDanych-main\BazyDanych-main\DAL\obj\Debug\net6.0\ref\DAL.dll
